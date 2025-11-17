@@ -7,8 +7,6 @@ Raw CSV files are ingested into an Amazon S3 data lake, transformed using AWS La
 
 The solution follows a modern, cloud-ready architecture aligned with real-world data engineering practices.
 
-⸻
-
 2. Architecture
 
                   ┌──────────────────────┐
